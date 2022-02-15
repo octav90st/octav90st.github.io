@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# PS4JB
 
-You can use the [editor on GitHub](https://github.com/octav90st/octav90st.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is an Offline full chain exploit for PS4 firmware 6.72, 7.02, 7.55 & 9.00 with 100% Success Rate.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Steps
 
-### Markdown
+* Delete Cookies and Clear Website Data
+* Open the Exploit Page https://octav90st.github.io/PS4JB/
+* The Exploit gets cached. Turn off the Internet and Open the page and run the Jailbreak (Old Exploit/New Exploit)
+* Run HEN/MIRA after Jailbreak is complete
+* Once Payload loaded successfully, Open the Game
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Note: If you face crashes (rarely, mostly when ripping games), Unplug your PS4, Click power button few times and then connect it back and Power on.
 
-```markdown
-Syntax highlighted code block
+## YouTube Channel
 
-# Header 1
-## Header 2
-### Header 3
+https://www.youtube.com/channel/UCIAjBQSaOPMBZb3bhb_k5WA
 
-- Bulleted
-- List
+## Facebook page:
 
-1. Numbered
-2. List
+https://www.facebook.com/Octav.Scutariu.Photography
 
-**Bold** and _Italic_ and `Code` text
+## Credits
 
-[Link](url) and ![Image](src)
-```
+* [Fire30](https://github.com/Fire30/bad_hoist) for the WebKit exploit
+* [TheFlow](https://hackerone.com/reports/826026) for the kernel exploit
+* [sleirsgoevy](https://github.com/sleirsgoevy/ps4jb) for the PS4 6.72 JB
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Donate Me
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/octav90st/octav90st.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+LinkUnderConstruction
